@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi there 👋, I'm **Kanhaiya Verma**
 
-<!--
-**codecrafterKV/codecrafterKV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm a passionate Computer Science Engineering student who enjoys solving problems, building practical software, and continuously learning modern technologies in software development and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science Engineering**
+- 💻 Skilled in **Python** and **C Programming**
+- 🧠 Learning **Data Structures & Algorithms**
+- 🗄️ Learning **SQL** and **MySQL**
+- 🤖 Exploring **Artificial Intelligence** and AI-powered development tools
+- 🌱 Continuously improving through projects and hands-on practice
+
+---
+
+## 🛠️ Tech Stack
+
+
+
+- SQL
+- MySQL
+- SQLite
+- git
+- Visual Studio Code
+- Data Structures & Algorithms
+- SQL & Database Design
+- Python Development
+- AI-assisted Software Development
+- Html
+- Css
+---
+
+## 📂 Projects
+
+🚧 New projects are coming soon!
+
+I'm actively building projects in Python, C, SQL, and AI that will be available on my GitHub.
+
+---
+
+## 📈 GitHub Stats
+
+> GitHub statistics will automatically appear here after adding GitHub Readme Stats widgets.
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+```
+
+Replace `YOUR_USERNAME` with your GitHub username.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Coming Soon
+
+---
+
+## 💡 Quote
+
+> **"Code. Learn. Build. Improve. Repeat."** 🚀
+
+Thanks for visiting my profile! ⭐
