@@ -47,25 +47,9 @@
 
 ---
 
-## 🎯 2026 Goals
-
-- ✅ Master Python
-- ✅ Master Data Structures & Algorithms
-- ✅ Learn Backend Development
-- ✅ Build 15+ Real-World Projects
-- ✅ Contribute to Open Source
-- ✅ Land a Software Engineering Internship
-
----
-
 ## 📂 Featured Projects
 
 🚧 Coming Soon...
-
-- Python Projects
-- C Projects
-- SQL Projects
-- AI Projects
 
 ---
 
