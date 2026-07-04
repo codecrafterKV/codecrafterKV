@@ -39,7 +39,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stat
 
 > If the Stats cards don't load, it's usually due to temporary service issues.
 
