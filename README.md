@@ -1,109 +1,69 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kanhaiya Verma</h1>
+<h3 align="center">💻 B.Tech Computer Science Engineering Student | Python Developer | AI Enthusiast</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&text=KANHAIYA%20VERMA&fontSize=48&fontColor=00F5D4&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20in%20the%20Making&descAlign=50&descAlignY=65&descColor=B18CFF&animation=twinkling" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+%7C+C+%7C+SQL;Learning+DSA+%26+AI;Building+Real-World+Projects" />
+</p>
 
-</div>
+---
 
-<br>
+## 🚀 About Me
 
-```bash
-kanhaiya@dev:~$ whoami
-```
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Skilled in **Python** and **C Programming**
+- 🗄️ Learning **SQL**, **MySQL**, and **SQLite**
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 🤖 Exploring **Artificial Intelligence** and AI-assisted development
+- 🚀 Goal: Become a Software Engineer and build impactful software
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student+%40+India;Python+%7C+C+%7C+SQL+Developer;DSA+Grinder+%F0%9F%94%A5+AI+Explorer;Building+things+that+actually+work.;Open+to+collabs+%26+opportunities+%F0%9F%A4%9D" />
-</div>
+---
 
-<br>
+## 🛠️ Tech Stack
 
-```bash
-kanhaiya@dev:~$ cat about.yaml
-```
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech, Computer Science Engineering |
-| 💻 **Languages** | Python · C · SQL |
-| 🗄️ **Databases** | MySQL · SQLite |
-| 🌱 **Grinding** | Data Structures & Algorithms |
-| 🤖 **Exploring** | Artificial Intelligence + AI-assisted dev |
-| 🎯 **Mission** | Ship real, impactful software |
-| ⚡ **Mantra** | "Code • Learn • Build • Repeat" |
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-<br>
+### 🤖 AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
 
-## ⚙️ Tech Stack
+---
 
-<div align="center">
+## 📈 GitHub Stats
 
-<img src="https://skillicons.dev/icons?i=py,c,mysql,sqlite,git,github,vscode&theme=dark" />
+> If the Stats cards don't load, it's usually due to temporary service issues.
 
-<br><br>
+![GitHub Streak](https://streak-stats.demolab.com?user=codecrafterKV&theme=tokyonight)
 
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white"/>
+---
 
-</div>
+## 📂 Featured Projects
 
-<br>
+🚧 Coming Soon...
 
-## 📊 Dashboard
+---
 
-<div align="center">
+## 📫 Connect With Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=codecrafterKV&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=B18CFF&text_color=c9d1d9" height="165"/>
+- 🌐 GitHub: https://github.com/codecrafterKV
+- 💼 LinkedIn: *Coming Soon*
 
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/codecrafterKV/codecrafterKV/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚠️ **One-time setup needed:** this snake only appears after you add the workflow file below to this repo (`.github/workflows/snake.yml`) and let it run once. See instructions after this file.
-
-<br>
-
-```bash
-kanhaiya@dev:~$ ls projects/
-```
+---
 
 <div align="center">
 
-| 🚧 Project | Status |
-|---|---|
-| *Coming soon...* | `in-progress` |
+### ⭐ Thanks for visiting my profile!
 
-*Real-world Python, AI & DSA projects landing here soon.*
-
-</div>
-
-<br>
-
-## 📡 Connect
-
-<div align="center">
-
-<a href="https://github.com/codecrafterKV"><img src="https://img.shields.io/badge/GitHub-00F5D4?style=for-the-badge&logo=github&logoColor=0f0c29"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-B18CFF?style=for-the-badge&logo=linkedin&logoColor=0f0c29"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=codecrafterKV&label=PROFILE+VIEWS&color=00F5D4&style=for-the-badge" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00F5D4" width="100%"/>
-
-<div align="center">
-
-```bash
-kanhaiya@dev:~$ echo "Thanks for stopping by 🚀"
-```
+*"Code • Learn • Build • Repeat"* 🚀
 
 </div>
