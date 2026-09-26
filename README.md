@@ -20,15 +20,15 @@ kanhaiya@dev:~$ whoami
 kanhaiya@dev:~$ cat about.yaml
 ```
 
-```yaml
-🎓 education   : B.Tech, Computer Science Engineering
-💻 languages   : [Python, C, SQL]
-🗄️ databases   : [MySQL, SQLite]
-🌱 grinding    : Data Structures & Algorithms
-🤖 exploring   : Artificial Intelligence + AI-assisted dev
-🎯 mission     : Ship real, impactful software
-⚡ mantra      : "Code • Learn • Build • Repeat"
-```
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech, Computer Science Engineering |
+| 💻 **Languages** | Python · C · SQL |
+| 🗄️ **Databases** | MySQL · SQLite |
+| 🌱 **Grinding** | Data Structures & Algorithms |
+| 🤖 **Exploring** | Artificial Intelligence + AI-assisted dev |
+| 🎯 **Mission** | Ship real, impactful software |
+| ⚡ **Mantra** | "Code • Learn • Build • Repeat" |
 
 <br>
 
@@ -54,7 +54,6 @@ kanhaiya@dev:~$ cat about.yaml
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=codecrafterKV&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=B18CFF&text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com?user=codecrafterKV&theme=dark&hide_border=true&background=0f0c29&stroke=00F5D4&ring=B18CFF&fire=00F5D4&currStreakLabel=00F5D4" height="165"/>
 
 </div>
 
@@ -99,7 +98,7 @@ kanhaiya@dev:~$ ls projects/
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00F5D4" width="100%"/>
 
 <div align="center">
 
