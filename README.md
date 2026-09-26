@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&text=KANHAIYA%20VERMA&fontSize=48&fontColor=00F5D4&fontAlign=50&fontAlignY=40&desc=%3C%20Software%20Engineer%20in%20the%20Making%20/%3E&descAlign=50&descAlignY=65&descColor=B18CFF&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&text=KANHAIYA%20VERMA&fontSize=48&fontColor=00F5D4&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20in%20the%20Making&descAlign=50&descAlignY=65&descColor=B18CFF&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -56,16 +56,6 @@ kanhaiya@dev:~$ cat about.yaml
 <img src="https://github-readme-stats.vercel.app/api?username=codecrafterKV&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=B18CFF&text_color=c9d1d9" height="165"/>
 <img src="https://streak-stats.demolab.com?user=codecrafterKV&theme=dark&hide_border=true&background=0f0c29&stroke=00F5D4&ring=B18CFF&fire=00F5D4&currStreakLabel=00F5D4" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecrafterKV&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00F5D4&text_color=c9d1d9" height="165"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=codecrafterKV&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codecrafterKV&theme=react-dark&hide_border=true&bg_color=0f0c29&color=00F5D4&line=B18CFF&point=ffffff" width="97%"/>
-
 </div>
 
 <br>
@@ -73,8 +63,10 @@ kanhaiya@dev:~$ cat about.yaml
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/codecrafterKV/codecrafterKV/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
+
+> ⚠️ **One-time setup needed:** this snake only appears after you add the workflow file below to this repo (`.github/workflows/snake.yml`) and let it run once. See instructions after this file.
 
 <br>
 
